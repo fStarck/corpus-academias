@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/corpus-academias/static/css/main.64d41250.chunk.css",
+    "main.js": "/corpus-academias/static/js/main.b26bef82.chunk.js",
+    "main.js.map": "/corpus-academias/static/js/main.b26bef82.chunk.js.map",
+    "runtime~main.js": "/corpus-academias/static/js/runtime~main.670e9524.js",
+    "runtime~main.js.map": "/corpus-academias/static/js/runtime~main.670e9524.js.map",
+    "static/css/2.b0969361.chunk.css": "/corpus-academias/static/css/2.b0969361.chunk.css",
+    "static/js/2.dd305b1a.chunk.js": "/corpus-academias/static/js/2.dd305b1a.chunk.js",
+    "static/js/2.dd305b1a.chunk.js.map": "/corpus-academias/static/js/2.dd305b1a.chunk.js.map",
+    "index.html": "/corpus-academias/index.html",
+    "precache-manifest.35c4cb6071232f5a46bb8b021be45132.js": "/corpus-academias/precache-manifest.35c4cb6071232f5a46bb8b021be45132.js",
+    "service-worker.js": "/corpus-academias/service-worker.js",
+    "static/css/2.b0969361.chunk.css.map": "/corpus-academias/static/css/2.b0969361.chunk.css.map",
+    "static/css/main.64d41250.chunk.css.map": "/corpus-academias/static/css/main.64d41250.chunk.css.map",
+    "static/media/App.css": "/corpus-academias/static/media/Bozon-Regular.5824d083.ttf",
+    "static/media/slick-theme.css": "/corpus-academias/static/media/slick.f97e3bbf.svg"
+  }
+}

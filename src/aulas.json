@@ -1,0 +1,123 @@
+[
+  {
+    "id": 1,
+    "titulo": "Jump",
+    "imagem": "img/aula1.png",
+    "descricao": "A aula de Jump é uma atividade aeróbica realizada em cima de um trampolim focada no fortalecimento muscular, especialmente das pernas, glúteos e abdômen. Também melhora a coordenação motora, equilíbrio e a resistência cardiovascular.",
+    "duracao": "50 min",
+    "intensidade": {
+      "nivel": "Alta",
+      "calorias": "500 - 800 calorias / aula"
+    },
+    "beneficios": "Alta (aproximadamente 500-800 calorias por aula, dependendo da intensidade).\nBaixo impacto.\nMelhora da coordenação motora, equilíbrio e resistência."
+  },
+  {
+    "id": 2,
+    "titulo": "Ritmos",
+    "imagem": "img/aula2.png",
+    "descricao": "A aula de ritmos combina  diferentes estilos musicais com coreografias que proporcionam um treino divertido e dinâmica. Você poderá melhorar a coordenação motora e a resistência cardiovascular se divertindo com musicas atuais e flashback.",
+    "duracao": "50 min",
+    "intensidade": {
+      "nivel": "Média",
+      "calorias": "400 - 600 calorias / aula"
+    },
+    "beneficios": "Baixo impacto ./n.Melhora a coordenação motora e a resistência cardiovascular./nProporciona bem-estar."
+  },
+  {
+    "id": 3,
+    "titulo": "Melhor Idade",
+    "imagem": "img/aula3.png",
+    "descricao": "São aulas adaptadas para pessoas que estão na faixa de 60+. Os exercícios focam em desenvolver a força muscular, equilíbrio e flexibilidade. A frequência de aulas ajuda a previnir lesões e torna o dia a dia mais ativo e saudável.",
+    "duracao": "50 min",
+    "intensidade": {
+      "nivel": "Média",
+      "calorias": "400 - 600 calorias / aula"
+    },
+    "beneficios": "\nAjuda a previnir lesões.\nTorna o dia a dia mais ativo e saudável.\nCria socialização"
+  },
+  {
+    "id": 4,
+    "titulo": "Local",
+    "imagem": "img/aula4.png",
+    "descricao": "A aula oferece uma soma de exercícios focados no fortalecimento muscular, trabalhando regiões específicas do corpo. Para a execução dos exercícios o professor poderá usar pesos e bastões. Ideal para quem busca definir e tonificar o corpo.",
+    "duracao": "50 min",
+    "intensidade": {
+      "nivel": "Alta",
+      "calorias": "600 - 800 calorias / aula"
+    },
+    "beneficios": "Fortalecimento muscular\nDefinição muscular\nMelhora cardiovascular\nMais controle motor"
+  },
+  {
+    "id": 5,
+    "titulo": "Alongamento",
+    "imagem": "img/aula5.png",
+    "descricao": "A aula de alongamento é dedicada a relaxar a musculatura , dar flexibilidade e recuperação muscular. Os exercícios ajudam a aliviar as tensões e reduzir o risco de lesões. Você pode encontrar melhora significativa na recuperação muscular, alívio de tensões e risco de lesões.",
+    "duracao": "50 min",
+    "intensidade": {
+      "nivel": "Média",
+      "calorias": "400 - 600 calorias / aula"
+    },
+    "beneficios": "Melhoras significativasna recuperação muscular, alívio de tensões e risco de lesões"
+  },
+  {
+    "id": 6,
+    "titulo": "Abdominal",
+    "imagem": "img/aula6.png",
+    "descricao": "A aula de abdômen é focada no fortalecimento da musculatura da região abdominal. Os exercícios envolvem movimentos que trabalham o core (centro do corpo), melhorando a postura, a estabilidade e a resistência da região. Contribui para a definição do abdômen, além de prevenir dores nas costas e melhorar o equilíbrio corporal.",
+    "duracao": "30 min",
+    "intensidade": {
+      "nivel": "Alta",
+      "calorias": "600 - 800 calorias / aula"
+    },
+    "beneficios": "Fortalecimento e definição do abdômen."
+  },
+  {
+    "id": 7,
+    "titulo": "GAP",
+    "imagem": "img/aula7.png",
+    "descricao": "As aulas de GAP combinam exercícios para definir e fortalecer a musculatura e também desenvolver o sistema cardiorrespiratório. Com atenção aos glúteos, abdomen e pernas, a aula de GAP é  fundamental no seu treino.",
+    "duracao": "50 min",
+    "intensidade": {
+      "nivel": "Alta",
+      "calorias": "600 - 800 calorias / aula"
+    },
+    "beneficios": "Alta ( 600 a 800 calorias por aula)"
+  },
+  {
+    "id": 8,
+    "titulo": "Circuito Funcional",
+    "imagem": "img/aula8.png",
+    "descricao": "Os exercícios são baseados nos movimentos naturais do corpo, como correr, pular, baixar, girar e empurrar . os exercícios são realizados em estações e com um tempo específico para cada um.",
+    "duracao": "50 min",
+    "intensidade": {
+      "nivel": "Alta",
+      "calorias": "600 - 800 calorias / aula"
+    },
+    "beneficios": "Melhora a postura\nEstabilidade e equilíbrio muscular\nForça muscular\nReduz dores locais principalmente na lombar, pélvica e quadril"
+  },
+  {
+    "id": 9,
+    "titulo": "Zumba",
+    "imagem": "img/aula9.png",
+    "descricao": "Uma aula de Zumba é uma experiência. Desde que foi criada a Zumba é sucesso nas academias porque reune movimentos de dança ao som de músicas latinas e internacionais. É uma atividade de condicionamento físico de intensidade moderada, fácil de acompanhar e divertida.",
+    "duracao": "50 min",
+    "intensidade": {
+      "nivel": "Alta",
+      "calorias": "600 - 800 calorias / aula"
+    },
+    "beneficios": "Melhora a postura\nEstabilidade e equilíbrio muscular\nForça muscular\nReduz dores locais principalmente na lombar, pélvica e quadril"
+  },
+  {
+    "id": 10,
+    "titulo": "Ritbox",
+    "imagem": "img/aula4.png",
+    "descricao": "É uma nova modalidade de aula , onde você vai aprender movimentos coreografados ao som das músicas animadas e contagiantes. É uma aula de resistência, música, dança e muita diversão, que facilitam o emagrecimento, fortalecimento muscular, hipertrofia e vínculo social.",
+    "duracao": "50 min",
+    "intensidade": {
+      "nivel": "Alta",
+      "calorias": "600 - 800 calorias / aula"
+    },
+    "beneficios": "Melhora a postura\nEstabilidade e equilíbrio muscular\nForça muscular\nReduz dores locais principalmente na lombar, pélvica e quadril"
+  }
+]
+
